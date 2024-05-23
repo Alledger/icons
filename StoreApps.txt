@@ -41,3 +41,6 @@ Intel® Graphics Command Center
 WireGuardPro
 Windows Scan
 Microsoft Loop
+NanaZip
+GIMP
+WinSCP
